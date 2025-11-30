@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Trança Pro 2.4",
+  "description": "Aplicativo de gestão, precificação e aprendizado para trancistas com design Japandi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
